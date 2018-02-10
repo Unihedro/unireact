@@ -1,0 +1,14 @@
+.root {
+}
+
+#root {
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 14;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-weight: normal;
+  margin-left: 100;
+}
