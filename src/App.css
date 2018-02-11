@@ -12,3 +12,27 @@ h1 {
   font-weight: normal;
   margin-left: 100;
 }
+
+.websiteTitle {
+  text-align: center;
+  font-size: 30;
+  margin-bottom: 40px;
+}
+
+a {
+  color: slategray;
+  text-decoration: none;
+}
+
+li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.testcase {
+  margin-bottom: 50px;
+}
+
+.small {
+  font-size: 14px;
+}
